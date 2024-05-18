@@ -3,7 +3,6 @@
 - 🌱 Atualmente estou aprendendo estou fazendo Analise Desenvolvimento de Sistemas
 - 💞️ Procuro colaborar em Estudos e Conhecimentos
 - 📫 Como entrar em contato comigo, e-mail: samuelcauabarbosa107@gmail.com
-- ⚡ Curiosidade: Devenvolvedor Full-Stack a 1 Ano
 
 <!---
 Samuelcauabarbosa/Samuelcauabarbosa é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece no seu perfil do GitHub.
